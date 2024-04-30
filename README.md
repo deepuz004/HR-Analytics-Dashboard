@@ -31,5 +31,6 @@ Now Step ahead to DASHBOARD!!!
 
 ![Hr data analytics](https://github.com/deepuz004/HR-Analytics-Dashboard/assets/128511059/1434b597-04b2-46cd-849f-ac1380ee505c)
 
+## Link for Dashboard in Tableau Public
 https://public.tableau.com/views/HRAnalytics_17139539692550/Dashboard1?:language=en-GB&:sid=A141E78DB699480D8C5846DAD60BD074-0:0&:display_count=n&:origin=viz_share_link
 
